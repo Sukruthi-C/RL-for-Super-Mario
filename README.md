@@ -1,13 +1,11 @@
 
 # RL-for-Super-Mario
 
-![Alt text for GIF 1](videos/mario1.gif) ![Alt text for GIF 2](videos/mario2.gif)
-# RL-for-Super-Mario
-
 <p float="left">
   <img src="videos/mario1.gif" alt="Alt text for GIF 1" width="48%"/>
   <img src="videos/mario2.gif" alt="Alt text for GIF 2" width="48%"/>
 </p>
+
 
 
 ## Description
