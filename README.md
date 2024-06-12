@@ -22,3 +22,16 @@ This project demonstrates the application of reinforcement learning (RL) to play
    ![Frame Stacking Example](videos/stacking.png)
 
 These preprocessing techniques are essential for efficient training of the RL agent, enabling it to perform better by understanding the dynamics of the game environment.
+
+## Instructions
+1. Clone the repository. 
+
+```
+git clone git@github.com:Sukruthi-C/RL-for-Super-Mario.git
+```
+2. Install the pre-requisities.
+```
+cd RL-for-Super-Mario
+```
+3. Run all code blocks on jupyter notebook
+
