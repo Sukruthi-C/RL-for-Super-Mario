@@ -1,15 +1,13 @@
 
 # RL-for-Super-Mario
+## Description
+This project demonstrates the application of reinforcement learning (RL) to play the Super Mario Bros game using the Proximal Policy Optimization (PPO) algorithm. The game environment undergoes pre-processing steps to prepare the state inputs for the RL agent. 
 
 <p float="left">
   <img src="videos/mario1.gif" alt="Alt text for GIF 1" width="48%"/>
   <img src="videos/mario2.gif" alt="Alt text for GIF 2" width="48%"/>
 </p>
 
-
-
-## Description
-This project demonstrates the application of reinforcement learning (RL) to play the Super Mario Bros game using the Proximal Policy Optimization (PPO) algorithm. The game environment undergoes pre-processing steps to prepare the state inputs for the RL agent. 
 
 ### Pre-processing Steps
 1. **Grayscale Conversion**: The original game images are converted to grayscale, which reduces the computational load by simplifying the input data. This is crucial for enhancing the performance of the learning algorithm.
