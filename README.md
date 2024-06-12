@@ -1,6 +1,8 @@
 
 
 # RL-for-Super-Mario
+![Alt text for the GIF](videos/mario1.gif)
+![Alt text for the GIF](videos/mario2.gif)
 
 ## Description
 This project demonstrates the application of reinforcement learning (RL) to play the Super Mario Bros game using the Proximal Policy Optimization (PPO) algorithm. The game environment undergoes pre-processing steps to prepare the state inputs for the RL agent. 
