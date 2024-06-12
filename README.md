@@ -15,7 +15,7 @@ This project demonstrates the application of reinforcement learning (RL) to play
 1. **Grayscale Conversion**: The original game images are converted to grayscale, which reduces the computational load by simplifying the input data. This is crucial for enhancing the performance of the learning algorithm.
    
  <p align="center">
-  <img src="videos/grayscale.png" alt="Grayscale Example" width="50%"/>
+  <img src="videos/grayscale.png" alt="Grayscale Example" width="20%"/>
 </p>
 
 
