@@ -23,7 +23,7 @@ This project demonstrates the application of reinforcement learning (RL) to play
 
 These preprocessing techniques are essential for efficient training of the RL agent, enabling it to perform better by understanding the dynamics of the game environment.
 
-## Instructions
+### Instructions
 1. Clone the repository. 
 
 ```
@@ -33,5 +33,14 @@ git clone git@github.com:Sukruthi-C/RL-for-Super-Mario.git
 ```
 cd RL-for-Super-Mario
 ```
-3. Run all code blocks on jupyter notebook
+3. Install dependencies
+```
+pip install gym_super_mario_bros
+pip install stable-baselines3[extra]
+pip install matplotlib
+pip install pytorch
+```
+5. Run all code the blocks on jupyter notebook
 
+### Results
+The model was trained for 1000000 iterations with a learning rate of 1e-7 with cnn policy and 2000000 iterations with a learning rate of 1e-6 with a mlp policy, batch size of 64 and number of steps of 512. The one with the lower learning rate performed better. However, the model needs to be trained more than this to perform better. As you can see in the gifs attached above that Mario cannot pass the first level with this. Due to GPU limitations, this remains a work for the future.
